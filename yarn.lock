@@ -5363,7 +5363,7 @@ react-native-secure-key-store@^2.0.2:
   resolved "https://registry.yarnpkg.com/react-native-secure-key-store/-/react-native-secure-key-store-2.0.5.tgz#bebc17847b57ce1ff68a96bce812962269946f02"
   integrity sha512-m0dzG+cYPMsA07dXfUMpeIwI4erb4khcni1FayC6N+cnPGjAqgF1mscdNnN8FvhSydoDxDK+avKl8TjlTSPgRw==
 
-react-native-sqlite-storage@^3.3.10:
+react-native-sqlite-storage@^3.3.11:
   version "3.3.11"
   resolved "https://registry.yarnpkg.com/react-native-sqlite-storage/-/react-native-sqlite-storage-3.3.11.tgz#834c26917f5b5c36a084a9e8d62b04109115422a"
   integrity sha512-Ek2VsteYQKf1Sz8QmWr5MXjyYYcGqVt8i9FFOIrCg/6OboC6MvpdeY/RYWy4PnquHfQirB7unHPagOFZBCo3Zw==
